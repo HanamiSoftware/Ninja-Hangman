@@ -52,3 +52,11 @@ Le modifiche sono suddivise in milestone con criteri di accettazione verificabil
 ## Nota sulla reference grafica
 
 La mascotte fornita dal proprietario del progetto è il riferimento visivo da rispettare. L'immagine originale e i relativi diritti/licenze devono essere custoditi e documentati dal proprietario prima di includere gli asset nel repository pubblico.
+
+## Documentazione
+
+- [Visione e requisiti MVP](docs/PROJECT.md)
+- [Architettura](docs/ARCHITECTURE.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Registro decisioni](docs/DECISIONS.md)
+- [Report di sessione](docs/SESSION_REPORT.md)
