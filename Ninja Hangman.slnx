@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Ninja Hangman.Droid/Ninja Hangman.Droid.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Ninja Hangman.iOS/Ninja Hangman.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Ninja Hangman/Ninja Hangman.csproj" />
+</Solution>
